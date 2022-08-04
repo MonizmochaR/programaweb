@@ -1,0 +1,16 @@
+body{
+    background-color: hsl(0, 0%, 0%);
+     
+}
+
+footer {
+    text-align: center;
+    background-color: #f5f5f5;
+    padding-bottom: rem;
+}
+
+.jumbotron {
+    background-image: url('foto/bihnd.jpg');
+    background-size: cover;
+    padding-top: 3rem;
+}
