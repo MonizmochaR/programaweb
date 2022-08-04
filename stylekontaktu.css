@@ -1,0 +1,22 @@
+body {
+    background-color: lightseagreen;
+}
+.jumbotron {
+    background-image: url('api.jpg');
+    background-size: cover;
+    height: 350px;
+    text-align: center;
+    padding-top: 11rem;
+    color: rgb(251, 249, 248);
+    background-position: 0px -500px;
+}
+#kontaktu .container {
+    padding-top: 3rem;
+    background-color: #9900ff;
+}
+footer {
+    text-align: center;
+    background-color: royalblue;
+    color: rgb(243, 239, 239);
+    padding-bottom: 6rem;
+}
